@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tunings">
+        <item>Standard</item>
+        <item>Eb</item>
+        <item>Drop-D</item>
+    </string-array>
+
+</resources>

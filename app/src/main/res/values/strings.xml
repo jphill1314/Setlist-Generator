@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Practice Setlist Generator</string>
+
+    <string name="practice">Practice</string>
+    <string name="songs">Songs</string>
+    <string name="instruments">Instruments</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="add_song">Add New Song</string>
+    <string name="title">Song Title</string>
+    <string name="instrument">Instrument</string>
+    <string name="tuning">Tuning</string>
+
+    <string name="add_instrument">Add New Instrument</string>
+    <string name="name">Name</string>
+
+</resources>
